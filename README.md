@@ -33,6 +33,6 @@ Maximize the potential of the Leaf Area Calculator with these easy steps:
 
 ## 🌱 Get Started
 
-This script is open for everyone, aiming to empower researchers, students, and hobbyists alike. By utilizing sophisticated OpenCV algorithms, our tool ensures precise leaf area calculation, enabling you to focus on what truly matters in your plant physiology research.
+This script is open for everyone, aiming to empower researchers, students, and hobbyists alike. By utilizing sophisticated OpenCV algorithms, my tool ensures precise leaf area calculation, enabling you to focus on what truly matters in your plant physiology research.
 
 ---
