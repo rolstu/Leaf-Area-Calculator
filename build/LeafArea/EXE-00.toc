@@ -69,7 +69,7 @@
  [],
  False,
  False,
- 1712005806,
+ 1712174536,
  [('runw.exe',
    'E:\\TFG\\SLA\\SLA_app\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],

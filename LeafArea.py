@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Necessary imports
 import tkinter as tk
 from tkinter import ttk  # Import ttk module for the progress bar
@@ -97,5 +95,3 @@ label_result.pack()
 
 # Start the application
 root.mainloop()
-
->>>>>>> d9fb6dc8a6e47ec0831908bad2d8183e21d18489
