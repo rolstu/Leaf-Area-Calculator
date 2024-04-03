@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to the **Leaf Area Calculator**, an open-source project designed to revolutionize plant physiology research with automated precision. This Python application effortlessly generates a detailed table, quantifying the area of scanned leaves in square centimeters (cm^2), offering a blend of technology and nature to simplify your research needs.
+Welcome to the **Leaf Area Calculator**, an open-source project designed to make plant physiology research easier with automated precision. This Python application effortlessly generates a detailed table, quantifying the area of scanned leaves in square centimeters (cm^2), offering a blend of technology and nature to simplify your research needs.
 
 My mission is to alleviate the everyday challenges faced in plant physiology studies, providing a seamless solution for accurate leaf area analysis. Join me in embracing this innovative tool to enhance your research efficiency and accuracy.
 
