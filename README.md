@@ -35,4 +35,11 @@ Maximize the potential of the Leaf Area Calculator with these easy steps:
 
 This script is open for everyone, aiming to empower researchers, students, and hobbyists alike. By utilizing sophisticated OpenCV algorithms, my tool ensures precise leaf area calculation, enabling you to focus on what truly matters in your plant physiology research.
 
+Open de ***.exe file***, or run the ***.py script***. It will appear a GUI with two inputs: The folder dir containing you well scanned images and the directory where **you want to save your .csv file** 
+
+*REMEMBER TO FINISH YOUR DIRECTORY WITH .CSV* such as "C:/your/path/file.csv"
+
+That's it! Waste no more time doing each image by hand.
+
+xoxo
 ---
