@@ -13,6 +13,15 @@ def run_script():
     image_dir = entry_image_dir.get()
     save_path = entry_save_path.get()
 
+    # Ensure the save directory exists
+    save_dir = os.path.dirname(save_path)
+    if not os.path.exists(save_dir):
+        try:
+            os.makedirs(save_dir)
+        except Exception as e:
+            label_result.config(text=f"Error creating directory: {e}")
+            return
+
     # Calculate the total number of images to be processed for the progress bar
     total_images = sum(1 for filename in os.listdir(image_dir)
                        if filename.endswith(('.jpg', '.jpeg', '.tif')))
@@ -62,10 +71,11 @@ def run_script():
 
     # Convert the results into a pandas DataFrame and save it as CSV
     df = pd.DataFrame(results)
-    df.to_csv(save_path, index=False)
-
-    # Display success message
-    label_result.config(text="Successfully executed!")
+    try:
+        df.to_csv(save_path, index=False)
+        label_result.config(text="Successfully executed!")
+    except Exception as e:
+        label_result.config(text=f"Error saving CSV: {e}")
 
 # User interface setup
 root = tk.Tk()
