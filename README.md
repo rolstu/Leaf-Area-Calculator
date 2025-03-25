@@ -35,7 +35,7 @@ This script is open for everyone, aiming to help researchers, students, and hobb
 
 Open de ***.exe file***, or run the ***.py script***. It will appear a GUI with two inputs: The folder dir containing you well scanned images and the directory where **you want to save your .csv file** 
 
-*REMEMBER TO FINISH YOUR DIRECTORY WITH .CSV* such as "C:/your/path/file.csv"
+*REMEMBER TO FINISH YOUR DIRECTORY WITH .CSV* such as "https://github.com/rolstu/Leaf-Area-Calculator/releases"
 
 That's it! Waste no more time doing each image by hand.
 
